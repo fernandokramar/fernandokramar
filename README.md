@@ -7,6 +7,10 @@
 
 - 🖋️ How to reach me [macedokramar@gmail.com](macedokramar@gmail.com)
 
+- 📘 I've graduated at bachelor's in engineering in information technology
+
+- 📘 I've graduated at Information technology 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernandokramar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandokramar" height="30" width="40" /></a>
