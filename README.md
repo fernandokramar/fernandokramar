@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Macedo Kramar</h1>
-<h3 align="center">A back-end developer from Brazil</h3>
+<h3 align="center">A Full-stack & IoT developer from Brazil</h3>
 
 - 🔭 I’m currently working on **MM information technology**
 
