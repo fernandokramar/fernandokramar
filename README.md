@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MM information technology**
 
-- 🌱 I’m currently learning **Node.js, Laravel, Python, R**
+- 🌱 I’m currently learning **Node.js, Laravel, Python, Data Science**
 
 - 🖋️ How to reach me [macedokramar@gmail.com](macedokramar@gmail.com)
 
