@@ -7,6 +7,10 @@
 
 - 🖋️ How to reach me [macedokramar@gmail.com](macedokramar@gmail.com)
 
+- 💻 I'm studying a postgraduate course in full-stack web software development
+
+- 🧑‍💻 I'm studying software engineering college
+
 - 🧑‍💻 I've have an bachelor's in information systems
 
 - 📘 I've graduated at Information technology 
