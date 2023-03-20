@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando Macedo Kramar</h1>
 <h3 align="center">A Full-stack & IoT developer from Brazil</h3>
 
-- 🔭 I’m currently working on **MM information technology**
+- 🔭 I’m currently working on **Esfera Informática**
 
-- 🌱 I’m currently learning **Node.js, Laravel, Python, Data Science**
+- 🌱 I’m currently learning **React.js, Laravel, Python, Data Science**
 
 - 🖋️ How to reach me [macedokramar@gmail.com](macedokramar@gmail.com)
 
