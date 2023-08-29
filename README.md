@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Fernando Macedo Kramar</h1>
 <h3 align="center">A Full-stack & IoT developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Esfera Informática**
+- 🔭 I’m currently working as a researcher at **UFPR**
 
-- 🌱 I’m currently learning **React.js, Laravel, Python, Data Science**
+- 🌱 I’m currently learning **React.js, Python, Data Science**
 
 - 🖋️ How to reach me [macedokramar@gmail.com](macedokramar@gmail.com)
 
-- 💻 I'm studying a postgraduate in full-stack web software development
+- 💻 I'm Master's student in Informatics (UFPR)
 
-- 🧑‍💻 I'm studying software engineering college
+- 💻 I'm studying a postgraduate in artificial intelligence and machine learning (UTP)
 
-- 🧑‍💻 I've have an bachelor's in information systems
+- 🧑‍💻 I'm studying software engineering college (UNISENAI)
 
-- 📘 I've graduated at Information technology 
+- 🧑‍💻 I've have an bachelor's in information systems (IEL)
+
+- 📘 I've graduated at Information technology (SENAI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
