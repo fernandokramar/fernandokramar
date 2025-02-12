@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fernando Macedo Kramar</h1>
 <h3 align="center">A Full-stack & IoT developer from Brazil</h3>
 
-- 🔭 I’m currently working as a analytics IT at **knapp Sudamérica**
+- 🔭 I’m currently working as a IT analyst at [**knapp Sudamérica**](https://knapp.com)
 
 - 🌱 I’m currently learning **React.js, Nest.js, AWS, Azure, GCP**
 
-- 🖋️ How to reach me [macedokramar@gmail.com](macedokramar@gmail.com)
+- 🖋️ How to reach me [macedokramar@gmail.com](mailto:macedokramar@gmail.com?subject=[GitHub]%20Hello%20Mr)
 
 - 💻 I'm Master's student in Informatics (UFPR)
 
