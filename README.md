@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Fernando Macedo Kramar</h1>
 <h3 align="center">A Full-stack & IoT developer from Brazil</h3>
 
-- 🔭 I’m currently working as a researcher at **UFPR**
+- 🔭 I’m currently working as a analytics IT at **knapp Sudamérica**
 
-- 🌱 I’m currently learning **React.js, Python, Data Science**
+- 🌱 I’m currently learning **React.js, Nest.js, AWS, Azure, GCP**
 
 - 🖋️ How to reach me [macedokramar@gmail.com](macedokramar@gmail.com)
 
 - 💻 I'm Master's student in Informatics (UFPR)
 
-- 💻 I'm studying a postgraduate in artificial intelligence and machine learning (UTP)
+- 💻 I'm studying a postgraduate in Web Developer Full Stack (UTP)
 
-- 🧑‍💻 I'm studying software engineering college (UNISENAI)
+- 💻 I've have an postgraduate in Business Intelligence & Analytics (UNYLEYA)
+
+- 💻 I've have an postgraduate in artificial intelligence and machine learning (UTP)
+
+- 🧑‍💻 I've have an bachelor's in engineering college (UNISENAI)
 
 - 🧑‍💻 I've have an bachelor's in information systems (IEL)
 
